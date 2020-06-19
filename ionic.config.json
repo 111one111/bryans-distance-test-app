@@ -1,0 +1,7 @@
+{
+  "name": "Bryans Distance Test App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
